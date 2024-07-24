@@ -34,7 +34,7 @@ export default function Home() {
               className="text-2xl text-center"
               onClick={() => window.location.reload()}
             >
-              Fit U
+              Home
             </span>
           </Link>
           <span
